@@ -1,11 +1,11 @@
-About r-ggside
-==============
+About r-ggside-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggside-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ggside
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggside-feedstock/blob/main/LICENSE.txt)
 
 Summary: The grammar of graphics as shown in 'ggplot2' has provided an expressive API for users to build plots. 'ggside' extends 'ggplot2' by allowing users to add graphical information about one of the main panel's axis using a familiar 'ggplot2' style API with tidy data. This package is particularly useful for visualizing metadata on a discrete axis, or summary graphics on a continuous axis such as a boxplot or a density distribution.
 
