@@ -3,7 +3,7 @@ About r-ggside-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggside-feedstock/blob/main/LICENSE.txt)
 
-Home: https://CRAN.R-project.org/package=ggside
+Home: https://github.com/jtlandis/ggside
 
 Package license: MIT
 
