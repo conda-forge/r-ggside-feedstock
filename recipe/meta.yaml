@@ -27,8 +27,7 @@ requirements:
   host:
     - r-base
     - r-cli
-    ## upper bound based on https://github.com/jtlandis/ggside/issues/56
-    - r-ggplot2 >=3.4.0,<3.5
+    - r-ggplot2 >=3.5.0
     - r-glue
     - r-gtable
     - r-rlang
@@ -38,7 +37,7 @@ requirements:
   run:
     - r-base
     - r-cli
-    - r-ggplot2 >=3.4.0,<3.5
+    - r-ggplot2 >=3.5.0
     - r-glue
     - r-gtable
     - r-rlang
