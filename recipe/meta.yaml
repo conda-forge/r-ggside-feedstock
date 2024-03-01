@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ggside_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ggside/ggside_{{ version }}.tar.gz
-  sha256: d71430d88bfc2d8db912d069e20d330bf40515a89835ef2b9d3692127992a657
+  sha256: 94156927e9b91f61223491d86999fafc80f17e08f2c23c96fb782505ad8666e4
 
 build:
   merge_build_host: true  # [win]
